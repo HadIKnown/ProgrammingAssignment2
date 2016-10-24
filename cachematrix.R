@@ -1,4 +1,4 @@
-## To not do costly computations repetitively, these functions will 
+## To avoid repetitive costly computations, these functions will 
 ## cache the inverse of a matrix so that it only needs to be computed
 ## once and stored for future use.
 
